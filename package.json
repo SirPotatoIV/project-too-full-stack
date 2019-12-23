@@ -1,0 +1,27 @@
+{
+  "name": "project-too-full-stack",
+  "version": "1.0.0",
+  "description": "TBD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirPotatoIV/project-too-full-stack.git"
+  },
+  "author": "Jake O'Toole and Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirPotatoIV/project-too-full-stack/issues"
+  },
+  "homepage": "https://github.com/SirPotatoIV/project-too-full-stack#readme",
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.0.2",
+    "sequelize": "^5.21.3"
+  }
+}
